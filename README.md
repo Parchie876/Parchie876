@@ -18,7 +18,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: I love Football ⚽, Chess♚♟️ and Swimming 🏊‍
-
+---
 
 ### Languages and Tools:
 
