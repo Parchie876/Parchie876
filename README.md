@@ -3,12 +3,12 @@
 <h2 align="center"> From Kingston Jamaica 🇯🇲🌴</h2>
 <p align="center"> 😤 "if you want to shine like a diamond you have to get cut like a diamond" - Eric Thomas</p>
 
-<h3 align="center">  Connect with me:</h3>
+###  Connect with me:
 
-[<img align="center" alt="Dillon Parchment | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][gmail]
-[<img align="center" alt="Dillon Parchment | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="center" alt="Dillon Parchment | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="Dillon Parchment | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Dillon Parchment | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Dillon Parchment | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Dillon Parchment | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Dillon Parchment | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 </p>
 
 <br />
